@@ -3,21 +3,27 @@
 
 # 트위치 API
 twitch_crawling.py를 통해, 현재 방송중인 전체 페이지를 크롤링합니다. 또한 시간 단위로 계속 저장합니다.
+
 twitch_crawling_finder.py를 통해, 시간단위로 저장된 각 페이지들에 대해 요약치를 구합니다. 이 때 각 게임별로 merge를 실시한 결과를 반환합니다.
 
 steamDB_crawler.py의 초반 부분에서는 steamAPI를 통한 CCU를 확인 가능했습니다.
+
 다만 과거의 CCU정보를 확인 불가능했기에, steamDB에서 일정 주기로 손수 2주간 데이터를 다운후 폴더에 추가하여 줍니다.
 
+
 Ex. 자료 다운 예제
+
 스팀 DB 사이트 : https://steamdb.info/app/730/charts/
+
 ![image](https://github.com/Sty1ish/Twitch_steamCrawal_SteamDB_summarise/assets/89575978/ffc3d45f-934d-474c-8e2d-19d73d536eac)
 
 여기서 다운 가능한 CCU와 LTU데이터를 다운후 
+
 CCU는 코드가 존재하는 폴더의 하위 폴더인 " STEAMDB_DATA /\[CCU] Steam charts/ '각 게임 명'"
+
 LTU는 코드가 존재하는 폴더의 하위 폴더인 " STEAMDB_DATA /\[LTU] Lifetime player count history/ '각 게임 명'" 위치에 누적하여 저장해 줍니다.
 
-그 뒤 merge를 실시하면, 게임 개별에 대한 요약 결과는 "Summarise_Dataset"에 생성되며, LTU와 CCU의 총합 merge결과는 코드 위치에 각각
-저장됩니다.
+그 뒤 merge를 실시하면, 게임 개별에 대한 요약 결과는 "Summarise_Dataset"에 생성되며, LTU와 CCU의 총합 merge결과는 코드 위치에 각각 저장됩니다.
 
 
 # 그외 참고 가능한 API
