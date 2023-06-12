@@ -1,0 +1,295 @@
+DATETIME,game_name,broadcaster_cnt,total_broadcaster_cnt,viewer_cnt,Total_twitch_viewer,language,user_ids,user_names,tags_unique
+23-06-01 142744(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,78255,0,1545835,{},[],[],[]
+23-06-01 143759(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,75785,0,1521355,{},[],[],[]
+23-06-01 144149(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,74921,0,1517175,{},[],[],[]
+23-06-01 150100(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,70208,0,1435906,{},[],[],[]
+23-06-01 151830(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,66227,0,1365723,{},[],[],[]
+23-06-01 153554(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,63363,0,1309148,{},[],[],[]
+23-06-01 155310(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,60244,0,1256378,{},[],[],[]
+23-06-01 162336(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,55734,0,1219460,"{""en"":1}",['nep228nepp'],['nep228nepp'],['English']
+23-06-01 164052(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,53865,0,1226182,{},[],[],[]
+23-06-01 165750(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,52064,0,1214767,{},[],[],[]
+23-06-01 171609(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,50466,0,1170271,{},[],[],[]
+23-06-01 173058(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,49566,0,1206755,{},[],[],[]
+23-06-01 173300(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,49405,0,1207261,{},[],[],[]
+23-06-01 174749(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,48711,0,1192453,{},[],[],[]
+23-06-01 174949(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,48508,0,1191605,{},[],[],[]
+23-06-01 180437(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,48230,0,1227030,{},[],[],[]
+23-06-01 180637(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,48091,0,1222759,{},[],[],[]
+23-06-01 182124(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47643,0,1200370,{},[],[],[]
+23-06-01 182324(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47533,0,1202358,{},[],[],[]
+23-06-01 183809(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47091,0,1249384,{},[],[],[]
+23-06-01 184011(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47134,0,1248240,{},[],[],[]
+23-06-01 185456(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47139,0,1291160,{},[],[],[]
+23-06-01 185657(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47184,0,1288305,{},[],[],[]
+23-06-01 191145(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47741,0,1324388,{},[],[],[]
+23-06-01 191344(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,47859,0,1337895,{},[],[],[]
+23-06-01 192835(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,48267,0,1385603,{},[],[],[]
+23-06-01 193034(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,48291,0,1383806,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 194524(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,48805,2,1436602,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 194725(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,48813,2,1451833,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 200224(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,50093,3,1467920,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 200424(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,50382,1,1457780,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 201926(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,51612,2,1501929,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 202129(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,51873,2,1537116,"{""en"":1}",['mr_rowey'],['Mr_Rowey'],"['Chilled', 'English', 'Games', 'VisualStudio', 'WebDevelopment', 'programming']"
+23-06-01 203636(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,53211,0,1574082,{},[],[],[]
+23-06-01 203848(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,53631,0,1597775,{},[],[],[]
+23-06-01 205352(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,55260,0,1678240,{},[],[],[]
+23-06-01 205609(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,55367,0,1681106,{},[],[],[]
+23-06-01 210522(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,57650,0,1690181,{},[],[],[]
+23-06-01 211108(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,58727,3,1754375,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 211331(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,59242,3,1769612,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 212831(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,61703,3,1847261,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 213057(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,62166,3,1844831,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 214643(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,64528,4,1909852,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 214946(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,65025,3,1932127,"{""en"":1}",['pyrokxnezxz'],['PYROKXNEZXZ'],"['StarRail', 'starrailhonkaigameplay']"
+23-06-01 220444(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,68224,0,1957399,{},[],[],[]
+23-06-01 220751(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,68793,0,1953903,{},[],[],[]
+23-06-01 222249(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,71271,0,2025710,{},[],[],[]
+23-06-01 222548(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,71622,0,2037116,{},[],[],[]
+23-06-01 224105(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,74641,0,2105707,{},[],[],[]
+23-06-01 224431(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,74440,0,2123614,{},[],[],[]
+23-06-01 225923(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,76594,0,2154677,{},[],[],[]
+23-06-01 230259(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,77753,0,2173622,{},[],[],[]
+23-06-01 231759(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,79534,0,2196992,{},[],[],[]
+23-06-01 232124(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,79494,0,2236514,{},[],[],[]
+23-06-01 233632(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,81712,0,2283621,{},[],[],[]
+23-06-01 234005(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,81796,0,2285699,{},[],[],[]
+23-06-01 235506(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,82641,0,2356227,{},[],[],[]
+23-06-01 235840(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,83105,0,2357763,{},[],[],[]
+23-06-02 001349(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,84227,0,2401855,{},[],[],[]
+23-06-02 001726(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,84145,0,2441128,{},[],[],[]
+23-06-02 003221(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,85119,0,2530058,{},[],[],[]
+23-06-02 003552(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,85577,0,2513745,{},[],[],[]
+23-06-02 005043(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,86399,0,2623547,{},[],[],[]
+23-06-02 005409(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,86151,0,2626692,{},[],[],[]
+23-06-02 010910(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,88900,1,2696575,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 011237(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,89581,1,2725649,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 012738(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,90612,1,2743028,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 013110(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,90954,1,2786010,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 014611(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,92074,2,2835307,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 014944(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,92640,2,2828190,"{""ru"":1}",['nya_necro'],['Nya_Necro'],['Русский']
+23-06-02 020452(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,95856,3,2912569,"{""en"":1,""ru"":1}","['nep228nepp', 'nya_necro']","['nep228nepp', 'Nya_Necro']","['English', 'Русский']"
+23-06-02 020833(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,96134,2,2918405,"{""ru"":1,""en"":1}","['nya_necro', 'nep228nepp']","['Nya_Necro', 'nep228nepp']","['English', 'Русский']"
+23-06-02 022333(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,96987,3,2992881,"{""en"":1,""ru"":1}","['nep228nepp', 'nya_necro']","['nep228nepp', 'Nya_Necro']","['English', 'Русский']"
+23-06-02 022716(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,97114,2,2954655,"{""ru"":1,""en"":1}","['nya_necro', 'nep228nepp']","['Nya_Necro', 'nep228nepp']","['English', 'Русский']"
+23-06-02 024220(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,98992,3,2973066,"{""ru"":1,""de"":1}","['nya_necro', 'ceinorzero']","['Nya_Necro', 'CeinorZero']","['Deutsch', 'Englisch', 'Salz', 'Schabernack', 'improvement', 'Русский']"
+23-06-02 024607(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,99571,7,2993914,"{""ru"":2,""de"":1}","['nya_necro', 'ceinorzero', 'feanor0161']","['Nya_Necro', 'CeinorZero', 'feanor0161']","['Deutsch', 'Englisch', 'Salz', 'Schabernack', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 030114(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,102049,7,3109502,"{""de"":1,""ru"":1}","['ceinorzero', 'feanor0161']","['CeinorZero', 'feanor0161']","['Deutsch', 'Englisch', 'Salz', 'Schabernack', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 030511(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,103251,5,3126921,"{""de"":1,""ru"":1}","['ceinorzero', 'feanor0161']","['CeinorZero', 'feanor0161']","['Deutsch', 'Englisch', 'Salz', 'Schabernack', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 032017(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,106014,13,3231983,"{""ru"":3,""de"":1}","['feanor0161', 'ceinorzero', 'alexliberty84', 'baby_adellirose']","['feanor0161', 'CeinorZero', 'alexliberty84', 'baby_adellirose']","['Deutsch', 'Englisch', 'FAF', 'Mechabellum', 'Salz', 'Schabernack', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 032420(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,106389,9,3253133,"{""ru"":2,""de"":1}","['feanor0161', 'ceinorzero', 'baby_adellirose']","['feanor0161', 'CeinorZero', 'baby_adellirose']","['Deutsch', 'Englisch', 'FAF', 'Mechabellum', 'Salz', 'Schabernack', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 033926(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,108795,10,3255316,"{""ru"":3,""de"":1,""en"":1}","['ceinorzero', 'baby_adellirose', 'feanor0161', 'alexliberty84', 'nep228nepp']","['CeinorZero', 'baby_adellirose', 'feanor0161', 'alexliberty84', 'nep228nepp']","['Deutsch', 'Englisch', 'English', 'FAF', 'Mechabellum', 'Salz', 'Schabernack', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 034338(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,109584,8,3298373,"{""ru"":3,""de"":1,""en"":1}","['ceinorzero', 'baby_adellirose', 'alexliberty84', 'feanor0161', 'nep228nepp']","['CeinorZero', 'baby_adellirose', 'alexliberty84', 'feanor0161', 'nep228nepp']","['Deutsch', 'Englisch', 'English', 'FAF', 'Mechabellum', 'Salz', 'Schabernack', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'improvement', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 035840(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,111668,3,3323781,"{""ru"":3,""en"":1}","['alexliberty84', 'baby_adellirose', 'feanor0161', 'nep228nepp']","['alexliberty84', 'baby_adellirose', 'feanor0161', 'nep228nepp']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 040300(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,112865,0,3388101,{},[],[],[]
+23-06-02 041805(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,115364,5,3356407,"{""ru"":3,""en"":1}","['feanor0161', 'alexliberty84', 'baby_adellirose', 'nep228nepp']","['feanor0161', 'alexliberty84', 'baby_adellirose', 'nep228nepp']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 042230(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,115831,5,3379830,"{""ru"":3,""en"":1}","['feanor0161', 'alexliberty84', 'baby_adellirose', 'nep228nepp']","['feanor0161', 'alexliberty84', 'baby_adellirose', 'nep228nepp']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 043733(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,116818,18,3419207,"{""en"":2,""ru"":2}","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'nep228nepp']","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'nep228nepp']","['English', 'SupremeCommander', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 044201(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,117286,24,3403466,"{""ru"":3,""en"":1}","['yudi_dddddd', 'baby_adellirose', 'feanor0161', 'alexliberty84']","['yudi_dddddd', 'baby_adellirose', 'feanor0161', 'alexliberty84']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 045701(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,117611,40,3421697,"{""ru"":2,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84']","['yudi_dddddd', 'feanor0161', 'alexliberty84']","['English', 'SupremeCommander', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 050130(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,117408,43,3437341,"{""ru"":3,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 051631(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,117327,47,3431925,"{""ru"":3,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 052101(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,117578,49,3441853,"{""ru"":2,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84']","['yudi_dddddd', 'feanor0161', 'alexliberty84']","['English', 'SupremeCommander', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 053601(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,116596,37,3447346,"{""ru"":3,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 054029(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,115943,39,3430967,"{""ru"":3,""en"":1}","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['yudi_dddddd', 'feanor0161', 'alexliberty84', 'baby_adellirose']","['English', 'FAF', 'Mechabellum', 'SupremeCommander', 'Ukraine', 'boosty', 'dance', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные', 'стратегии', 'стратегия']"
+23-06-02 055523(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,114648,102,3381775,"{""ru"":2,""fr"":1,""en"":1}","['le_moadib', 'yudi_dddddd', 'feanor0161', 'alexliberty84']","['Le_Moadib', 'yudi_dddddd', 'feanor0161', 'alexliberty84']","['Compétition', 'English', 'Français', 'SupremeCommander', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 055949(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,114280,92,3371909,"{""ru"":2,""fr"":1,""en"":1}","['le_moadib', 'yudi_dddddd', 'feanor0161', 'alexliberty84']","['Le_Moadib', 'yudi_dddddd', 'feanor0161', 'alexliberty84']","['Compétition', 'English', 'Français', 'SupremeCommander', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-02 061439(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,111995,94,3343594,"{""en"":1,""fr"":1}","['yudi_dddddd', 'le_moadib']","['yudi_dddddd', 'Le_Moadib']","['Compétition', 'English', 'Français', 'chill', 'chips', 'roleplaying', 'sherpa']"
+23-06-02 061905(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,111509,97,3353190,"{""en"":1,""fr"":1}","['yudi_dddddd', 'le_moadib']","['yudi_dddddd', 'Le_Moadib']","['Compétition', 'English', 'Français', 'chill', 'chips', 'roleplaying', 'sherpa']"
+23-06-02 063350(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,109965,55,3375488,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 063814(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,108933,53,3340498,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 065258(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,107840,37,3302501,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 065719(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,106928,38,3302120,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 071202(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,106933,41,3225798,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 071620(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,106054,38,3201090,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 073103(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,106133,38,3180157,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 073522(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,105941,40,3209577,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 075007(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,107158,27,3198789,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 075431(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,108828,27,3178791,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 080932(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,116475,20,3162350,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 081402(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,117677,20,3132210,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 082902(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,118954,16,3037852,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 083336(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119299,14,3048099,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 084833(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119885,14,2962618,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 085310(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119910,12,2938151,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 090816(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,122205,9,2878678,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 091300(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,123552,9,2870564,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 092757(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,124022,7,2784106,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 093245(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,124395,6,2749410,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 094742(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,125234,10,2713761,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 095231(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,125115,8,2722108,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-02 100734(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,126615,0,2644952,{},[],[],[]
+23-06-02 101230(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127280,0,2643948,{},[],[],[]
+23-06-02 102731(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127438,0,2587973,{},[],[],[]
+23-06-02 103225(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127758,0,2587861,{},[],[],[]
+23-06-02 105218(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127361,0,2542696,{},[],[],[]
+23-06-02 110715(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127000,0,2550556,{},[],[],[]
+23-06-02 111212(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,126882,0,2494574,{},[],[],[]
+23-06-02 112706(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,125907,0,2489161,{},[],[],[]
+23-06-02 113202(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,125751,0,2483140,{},[],[],[]
+23-06-02 114700(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,123780,0,2441989,{},[],[],[]
+23-06-02 115147(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,122845,0,2437616,{},[],[],[]
+23-06-02 120701(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,120376,0,2444908,{},[],[],[]
+23-06-02 121138(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,119543,0,2435632,{},[],[],[]
+23-06-02 122706(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,116229,0,2372821,{},[],[],[]
+23-06-02 123154(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,115854,0,2376169,{},[],[],[]
+23-06-02 124625(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,113000,0,2317889,{},[],[],[]
+23-06-02 125113(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,112111,0,2303844,{},[],[],[]
+23-06-02 130538(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,109707,0,2251143,{},[],[],[]
+23-06-02 131019(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,108418,0,2206004,{},[],[],[]
+23-06-02 132440(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,105406,0,2136130,{},[],[],[]
+23-06-02 132948(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,103785,0,2112753,{},[],[],[]
+23-06-02 134330(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,101012,0,2061706,{},[],[],[]
+23-06-02 134836(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,100007,0,2037811,{},[],[],[]
+23-06-02 140212(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,96398,0,1964677,{},[],[],[]
+23-06-02 140713(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,94817,0,1962234,{},[],[],[]
+23-06-02 142053(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,91596,0,1904324,{},[],[],[]
+23-06-02 142541(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,90433,0,1890546,{},[],[],[]
+23-06-02 143927(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,86880,0,1855313,{},[],[],[]
+23-06-02 144428(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,85873,0,1840312,{},[],[],[]
+23-06-02 145748(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,82891,0,1790497,{},[],[],[]
+23-06-02 150251(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,81894,0,1780950,{},[],[],[]
+23-06-02 151554(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,78870,0,1742822,{},[],[],[]
+23-06-02 152053(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,77569,0,1724291,{},[],[],[]
+23-06-02 153413(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,74360,2,1664837,"{""en"":2}","['runthiel', 'hiitakamui']","['Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 153852(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,73844,2,1646709,"{""en"":2}","['runthiel', 'hiitakamui']","['Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 155200(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,71220,2,1628476,"{""en"":2}","['runthiel', 'hiitakamui']","['Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 155640(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,70901,2,1626437,"{""en"":2}","['runthiel', 'hiitakamui']","['Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 160944(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,68550,3,1578482,"{""en"":2}","['hiitakamui', 'runthiel']","['HiitaKamui', 'Runthiel']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 161417(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,67575,3,1577971,"{""en"":2}","['hiitakamui', 'runthiel']","['HiitaKamui', 'Runthiel']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 162713(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,65566,3,1588605,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 163144(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,65119,3,1589723,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 164441(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,63509,4,1589096,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 164915(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,62646,3,1597017,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 170201(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,61662,6,1557551,"{""en"":3}","['hiitakamui', 'kirby3701', 'runthiel']","['HiitaKamui', 'Kirby3701', 'Runthiel']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 170636(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,61403,3,1550304,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 171917(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,60212,3,1560921,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 172357(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,59782,2,1569673,"{""en"":2}","['runthiel', 'hiitakamui']","['Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 173632(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,58885,3,1561325,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 174110(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,58618,3,1560894,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 175342(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,57928,3,1574349,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 175819(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,57516,3,1589611,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 181051(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,57366,3,1546834,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 181527(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,56798,3,1544352,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 182759(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,56208,4,1595873,"{""en"":3}","['hiitakamui', 'kirby3701', 'runthiel']","['HiitaKamui', 'Kirby3701', 'Runthiel']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 183242(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,56330,3,1618436,"{""en"":3}","['kirby3701', 'runthiel', 'hiitakamui']","['Kirby3701', 'Runthiel', 'HiitaKamui']","['Action', 'Adhd', 'Anypercent', 'Casual', 'Dice', 'ENVtuber', 'English', 'RolePlay', 'TableTop', 'Tiefling', 'VoiceActing', 'Vtuber']"
+23-06-02 184515(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,55735,1,1633649,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 184948(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,55815,1,1625312,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 190227(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56049,1,1682076,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 190656(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56320,1,1664546,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 191936(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56294,1,1688280,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 192403(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56125,1,1694627,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 193645(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56748,1,1718074,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 194113(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,56752,1,1745530,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 195358(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,57516,2,1781826,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 195827(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,58101,2,1797353,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 201113(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,59219,2,1844184,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 201546(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,60360,2,1850958,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 202834(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,61240,2,1907823,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 203306(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,61529,2,1924461,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 204601(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,63183,2,1980936,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 205035(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,63969,2,1999153,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 210337(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,66813,1,2048290,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 210810(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,67096,1,2067960,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 212119(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,69339,1,2104341,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 212555(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,70464,1,2124295,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 213911(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,72951,1,2178065,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 214350(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,74131,1,2144183,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 215706(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,75979,1,2229228,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 220152(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,77897,1,2274149,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 221512(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,80330,1,2328922,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 222001(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,81739,1,2378414,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 223334(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,83845,0,2434926,{},[],[],[]
+23-06-02 223824(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,84384,2,2451360,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 225153(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,86846,1,2474002,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 225648(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,87502,1,2500046,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 231021(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,89699,1,2550638,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 231517(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,90432,1,2593745,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 232852(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,92203,1,2592174,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 233351(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,92826,1,2631163,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 234726(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,94026,1,2651795,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-02 235226(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,94355,1,2664224,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 000607(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,96029,1,2685779,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 001108(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,96525,1,2684498,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 002450(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,97748,1,2769252,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 002953(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,98262,1,2829358,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 004338(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,98878,1,2873276,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 004840(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,99078,1,2886949,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 010231(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,100642,1,2937339,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 010733(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,101538,19,2897467,"{""pl"":1,""en"":1}","['pindoleumtv', 'kirby3701']","['PindoleumTV', 'Kirby3701']","['English', 'Polski']"
+23-06-03 012126(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,102750,1,2994150,"{""en"":2}","['kirby3701', 'nep228nepp']","['Kirby3701', 'nep228nepp']",['English']
+23-06-03 012628(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,102661,1,3007153,"{""en"":2}","['kirby3701', 'nep228nepp']","['Kirby3701', 'nep228nepp']",['English']
+23-06-03 014023(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,104044,1,3085249,"{""en"":1}",['kirby3701'],['Kirby3701'],['English']
+23-06-03 014527(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,104522,3,3097283,"{""en"":2}","['nep228nepp', 'kirby3701']","['nep228nepp', 'Kirby3701']",['English']
+23-06-03 015929(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,106058,3,3134572,"{""en"":3}","['nep228nepp', 'kirby3701', 'aiverse_']","['nep228nepp', 'Kirby3701', 'aiverse_']","['English', 'Lenkin', 'Putinfaf', 'lilsidlil']"
+23-06-03 020439(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,107961,3,3168687,"{""en"":3}","['nep228nepp', 'kirby3701', 'aiverse_']","['nep228nepp', 'Kirby3701', 'aiverse_']","['English', 'Lenkin', 'Putinfaf', 'lilsidlil']"
+23-06-03 021841(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,109744,1,3178763,"{""en"":2}","['kirby3701', 'aiverse_']","['Kirby3701', 'aiverse_']","['English', 'Lenkin', 'Putinfaf', 'lilsidlil']"
+23-06-03 022355(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,110432,2,3242337,"{""en"":4}","['the_gaming_pi', 'kirby3701', 'aiverse_', 'thebigc04']","['the_gaming_pi', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'lilsidlil']"
+23-06-03 023801(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,111273,4,3301939,"{""en"":4}","['the_gaming_pi', 'kirby3701', 'thebigc04', 'aiverse_']","['the_gaming_pi', 'Kirby3701', 'thebigc04', 'aiverse_']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'lilsidlil']"
+23-06-03 024312(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,111303,7,3318961,"{""en"":5}","['the_gaming_pi', 'nep228nepp', 'kirby3701', 'thebigc04', 'aiverse_']","['the_gaming_pi', 'nep228nepp', 'Kirby3701', 'thebigc04', 'aiverse_']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'lilsidlil']"
+23-06-03 025721(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,112949,14,3332210,"{""en"":6}","['pyrokxnezxz', 'nep228nepp', 'the_gaming_pi', 'kirby3701', 'thebigc04', 'aiverse_']","['PYROKXNEZXZ', 'nep228nepp', 'the_gaming_pi', 'Kirby3701', 'thebigc04', 'aiverse_']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 030239(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,114732,16,3336435,"{""en"":6}","['pyrokxnezxz', 'nep228nepp', 'the_gaming_pi', 'kirby3701', 'thebigc04', 'aiverse_']","['PYROKXNEZXZ', 'nep228nepp', 'the_gaming_pi', 'Kirby3701', 'thebigc04', 'aiverse_']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 031652(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,117465,13,3399612,"{""en"":5}","['pyrokxnezxz', 'nep228nepp', 'the_gaming_pi', 'kirby3701', 'aiverse_']","['PYROKXNEZXZ', 'nep228nepp', 'the_gaming_pi', 'Kirby3701', 'aiverse_']","['Casual', 'English', 'Lenkin', 'Matchmaker', 'Putinfaf', 'StarRail', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 032215(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,117853,14,3443405,"{""en"":6}","['the_gaming_pi', 'nep228nepp', 'pyrokxnezxz', 'kirby3701', 'aiverse_', 'thebigc04']","['the_gaming_pi', 'nep228nepp', 'PYROKXNEZXZ', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 033627(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,119988,19,3446371,"{""en"":6}","['the_gaming_pi', 'pyrokxnezxz', 'nep228nepp', 'kirby3701', 'aiverse_', 'thebigc04']","['the_gaming_pi', 'PYROKXNEZXZ', 'nep228nepp', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 034152(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,121117,17,3498079,"{""en"":6}","['pyrokxnezxz', 'the_gaming_pi', 'nep228nepp', 'kirby3701', 'aiverse_', 'thebigc04']","['PYROKXNEZXZ', 'the_gaming_pi', 'nep228nepp', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 035610(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,122503,14,3566704,"{""en"":6}","['nep228nepp', 'the_gaming_pi', 'pyrokxnezxz', 'kirby3701', 'aiverse_', 'thebigc04']","['nep228nepp', 'the_gaming_pi', 'PYROKXNEZXZ', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 040139(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,6,123898,17,3586270,"{""en"":6}","['pyrokxnezxz', 'nep228nepp', 'the_gaming_pi', 'kirby3701', 'aiverse_', 'thebigc04']","['PYROKXNEZXZ', 'nep228nepp', 'the_gaming_pi', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'StarRail', 'Strategy', 'lilsidlil', 'starrailhonkaigameplay', 'Русский']"
+23-06-03 041535(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,127226,10,3604138,"{""en"":5}","['nep228nepp', 'the_gaming_pi', 'kirby3701', 'aiverse_', 'thebigc04']","['nep228nepp', 'the_gaming_pi', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'lilsidlil']"
+23-06-03 042104(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,128152,10,3616891,"{""en"":5}","['nep228nepp', 'the_gaming_pi', 'kirby3701', 'aiverse_', 'thebigc04']","['nep228nepp', 'the_gaming_pi', 'Kirby3701', 'aiverse_', 'thebigc04']","['Bisexual', 'Casual', 'English', 'FAF', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'lilsidlil']"
+23-06-03 043505(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,8,129561,68,3628821,"{""en"":5,""ru"":2,""fr"":1}","['le_moadib', 'nep228nepp', 'the_gaming_pi', 'awakeningalex', 'kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Le_Moadib', 'nep228nepp', 'the_gaming_pi', 'awakeningalex', 'Kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Bisexual', 'Casual', 'Compétition', 'English', 'FAF', 'Français', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'chill', 'chips', 'lilsidlil', 'roleplaying', 'sherpa', 'Русский']"
+23-06-03 044033(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,129532,70,3609729,"{""en"":5,""ru"":3,""fr"":1}","['le_moadib', 'nep228nepp', 'awakeningalex', 'the_gaming_pi', 'feanor0161', 'kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Le_Moadib', 'nep228nepp', 'awakeningalex', 'the_gaming_pi', 'feanor0161', 'Kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Bisexual', 'Casual', 'Compétition', 'English', 'FAF', 'Français', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'chill', 'chips', 'lilsidlil', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 045436(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,130088,68,3645510,"{""en"":5,""ru"":3,""fr"":1}","['le_moadib', 'nep228nepp', 'awakeningalex', 'feanor0161', 'the_gaming_pi', 'kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Le_Moadib', 'nep228nepp', 'awakeningalex', 'feanor0161', 'the_gaming_pi', 'Kirby3701', 'aiverse_', 'thebigc04', 'faf_putin']","['Bisexual', 'Casual', 'Compétition', 'English', 'FAF', 'Français', 'LGBTQ', 'Lenkin', 'Matchmaker', 'Putinfaf', 'RTS', 'Strategy', 'chill', 'chips', 'lilsidlil', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 050006(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,130931,63,3639477,"{""en"":5,""ru"":3,""fr"":1}","['le_moadib', 'nep228nepp', 'the_gaming_pi', 'awakeningalex', 'yudi_dddddd', 'faf_putin', 'kirby3701', 'thebigc04', 'feanor0161']","['Le_Moadib', 'nep228nepp', 'the_gaming_pi', 'awakeningalex', 'yudi_dddddd', 'faf_putin', 'Kirby3701', 'thebigc04', 'feanor0161']","['Bisexual', 'Casual', 'Compétition', 'English', 'FAF', 'Français', 'LGBTQ', 'Matchmaker', 'RTS', 'Strategy', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 051408(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,131266,81,3664923,"{""en"":5,""ru"":3,""fr"":1}","['le_moadib', 'yudi_dddddd', 'the_gaming_pi', 'awakeningalex', 'nep228nepp', 'faf_putin', 'feanor0161', 'themisterslayer', 'kirby3701']","['Le_Moadib', 'yudi_dddddd', 'the_gaming_pi', 'awakeningalex', 'nep228nepp', 'faf_putin', 'feanor0161', 'TheMisterSlayer', 'Kirby3701']","['Casual', 'Chatty', 'Compétition', 'English', 'Français', 'ItsOkayToNotBeOkayHere', 'Matchmaker', 'MentalHealth', 'SafePlace', 'StayStrong', 'Sweaty', 'YoureWorthy', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 051938(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,131390,81,3651183,"{""en"":5,""ru"":3,""fr"":1}","['le_moadib', 'yudi_dddddd', 'awakeningalex', 'the_gaming_pi', 'faf_putin', 'themisterslayer', 'kirby3701', 'thebigc04', 'feanor0161']","['Le_Moadib', 'yudi_dddddd', 'awakeningalex', 'the_gaming_pi', 'faf_putin', 'TheMisterSlayer', 'Kirby3701', 'thebigc04', 'feanor0161']","['Bisexual', 'Casual', 'Chatty', 'Compétition', 'English', 'FAF', 'Français', 'ItsOkayToNotBeOkayHere', 'LGBTQ', 'Matchmaker', 'MentalHealth', 'RTS', 'SafePlace', 'StayStrong', 'Strategy', 'Sweaty', 'YoureWorthy', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 053341(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,9,130765,80,3607235,"{""en"":6,""ru"":2,""fr"":1}","['le_moadib', 'yudi_dddddd', 'nep228nepp', 'the_gaming_pi', 'themisterslayer', 'kirby3701', 'thebigc04', 'faf_putin', 'feanor0161']","['Le_Moadib', 'yudi_dddddd', 'nep228nepp', 'the_gaming_pi', 'TheMisterSlayer', 'Kirby3701', 'thebigc04', 'faf_putin', 'feanor0161']","['Bisexual', 'Casual', 'Chatty', 'Compétition', 'English', 'FAF', 'Français', 'ItsOkayToNotBeOkayHere', 'LGBTQ', 'Matchmaker', 'MentalHealth', 'RTS', 'SafePlace', 'StayStrong', 'Strategy', 'Sweaty', 'YoureWorthy', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 053910(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,5,130572,75,3555035,"{""en"":2,""ru"":2,""fr"":1}","['yudi_dddddd', 'le_moadib', 'themisterslayer', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'Le_Moadib', 'TheMisterSlayer', 'faf_putin', 'feanor0161']","['Chatty', 'Compétition', 'English', 'Français', 'ItsOkayToNotBeOkayHere', 'MentalHealth', 'SafePlace', 'StayStrong', 'Sweaty', 'YoureWorthy', 'chill', 'chips', 'roleplaying', 'sherpa', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 055310(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,129836,49,3567479,"{""en"":2,""ru"":2}","['yudi_dddddd', 'themisterslayer', 'feanor0161', 'faf_putin']","['yudi_dddddd', 'TheMisterSlayer', 'feanor0161', 'faf_putin']","['Chatty', 'English', 'ItsOkayToNotBeOkayHere', 'MentalHealth', 'SafePlace', 'StayStrong', 'Sweaty', 'YoureWorthy', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 055840(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,4,129879,56,3575064,"{""en"":2,""ru"":2}","['yudi_dddddd', 'feanor0161', 'themisterslayer', 'faf_putin']","['yudi_dddddd', 'feanor0161', 'TheMisterSlayer', 'faf_putin']","['Chatty', 'English', 'ItsOkayToNotBeOkayHere', 'MentalHealth', 'SafePlace', 'StayStrong', 'Sweaty', 'YoureWorthy', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 061237(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,129518,51,3612283,"{""ru"":2,""en"":1}","['yudi_dddddd', 'feanor0161', 'faf_putin']","['yudi_dddddd', 'feanor0161', 'faf_putin']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 061811(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,128703,52,3591847,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 063202(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,127932,47,3425772,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 063733(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,127071,47,3399305,"{""ru"":2,""en"":1}","['yudi_dddddd', 'feanor0161', 'faf_putin']","['yudi_dddddd', 'feanor0161', 'faf_putin']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 065120(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,125387,48,3344349,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 065652(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,125098,52,3307789,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 071038(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,124094,52,3247711,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 071608(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,123463,53,3241053,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 072950(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,3,122088,47,3188148,"{""ru"":2,""en"":1}","['yudi_dddddd', 'faf_putin', 'feanor0161']","['yudi_dddddd', 'faf_putin', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 073518(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,121475,38,3168551,"{""en"":1,""ru"":1}","['yudi_dddddd', 'feanor0161']","['yudi_dddddd', 'feanor0161']","['English', 'Автомобили', 'НетВойне', 'Попугай', 'Русский', 'животные']"
+23-06-03 074859(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,120389,31,3078787,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 075425(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,120200,23,3071227,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 080807(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,120110,22,3014190,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 081331(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119915,20,3012577,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 082710(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119017,26,2946936,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 083238(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,119007,24,2925956,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 084614(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,118283,25,2882596,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 085142(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,118747,21,2832946,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 090525(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,120196,23,2758563,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 091054(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,121130,20,2775833,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 092437(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,121368,25,2771736,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 093004(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,122063,22,2737608,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 094349(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,2,122536,20,2752483,"{""en"":2}","['yudi_dddddd', 'esaihsix']","['yudi_dddddd', 'EsaihSiX']",['English']
+23-06-03 094916(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,122012,19,2758615,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 100306(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,124294,19,2677684,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 100831(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,124727,24,2652458,"{""en"":1}",['yudi_dddddd'],['yudi_dddddd'],['English']
+23-06-03 102226(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,125531,0,2702031,{},[],[],[]
+23-06-03 102753(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,126182,0,2679258,{},[],[],[]
+23-06-03 104149(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127046,0,2688490,{},[],[],[]
+23-06-03 104715(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,126714,0,2714805,{},[],[],[]
+23-06-03 110113(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,0,127295,0,2715429,{},[],[],[]
+23-06-03 110641(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,128322,1,2662809,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 112038(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,128660,1,2557366,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 112607(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,128543,2,2536230,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 114005(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,128924,3,2522537,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 114532(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,128580,4,2517698,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 115929(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,127580,8,2462595,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 120457(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,127463,6,2470237,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 121852(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,126282,4,2384796,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 122416(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,125283,6,2345411,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 123809(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,124186,3,2296584,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 124332(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,123358,2,2286064,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 125720(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,121250,4,2224943,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 130243(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,121086,6,2213016,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"
+23-06-03 131624(hhmmss KST),SUPREME COMMANDER FORGED ALLIANCE,1,118376,4,2169425,"{""en"":1}",['ragnarr_konungr'],['Ragnarr_Konungr'],"['Casual', 'Chatty', 'English', 'FirstPlaythough', 'Pagan', 'Vtuber']"

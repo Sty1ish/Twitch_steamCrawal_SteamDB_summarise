@@ -1,0 +1,295 @@
+DATETIME,game_name,broadcaster_cnt,total_broadcaster_cnt,viewer_cnt,Total_twitch_viewer,language,user_ids,user_names,tags_unique
+23-06-01 142744(hhmmss KST),Space Gears,0,78255,0,1545835,{},[],[],[]
+23-06-01 143759(hhmmss KST),Space Gears,0,75785,0,1521355,{},[],[],[]
+23-06-01 144149(hhmmss KST),Space Gears,0,74921,0,1517175,{},[],[],[]
+23-06-01 150100(hhmmss KST),Space Gears,0,70208,0,1435906,{},[],[],[]
+23-06-01 151830(hhmmss KST),Space Gears,0,66227,0,1365723,{},[],[],[]
+23-06-01 153554(hhmmss KST),Space Gears,0,63363,0,1309148,{},[],[],[]
+23-06-01 155310(hhmmss KST),Space Gears,0,60244,0,1256378,{},[],[],[]
+23-06-01 162336(hhmmss KST),Space Gears,0,55734,0,1219460,{},[],[],[]
+23-06-01 164052(hhmmss KST),Space Gears,0,53865,0,1226182,{},[],[],[]
+23-06-01 165750(hhmmss KST),Space Gears,0,52064,0,1214767,{},[],[],[]
+23-06-01 171609(hhmmss KST),Space Gears,0,50466,0,1170271,{},[],[],[]
+23-06-01 173058(hhmmss KST),Space Gears,0,49566,0,1206755,{},[],[],[]
+23-06-01 173300(hhmmss KST),Space Gears,0,49405,0,1207261,{},[],[],[]
+23-06-01 174749(hhmmss KST),Space Gears,0,48711,0,1192453,{},[],[],[]
+23-06-01 174949(hhmmss KST),Space Gears,0,48508,0,1191605,{},[],[],[]
+23-06-01 180437(hhmmss KST),Space Gears,0,48230,0,1227030,{},[],[],[]
+23-06-01 180637(hhmmss KST),Space Gears,0,48091,0,1222759,{},[],[],[]
+23-06-01 182124(hhmmss KST),Space Gears,0,47643,0,1200370,{},[],[],[]
+23-06-01 182324(hhmmss KST),Space Gears,0,47533,0,1202358,{},[],[],[]
+23-06-01 183809(hhmmss KST),Space Gears,0,47091,0,1249384,{},[],[],[]
+23-06-01 184011(hhmmss KST),Space Gears,0,47134,0,1248240,{},[],[],[]
+23-06-01 185456(hhmmss KST),Space Gears,0,47139,0,1291160,{},[],[],[]
+23-06-01 185657(hhmmss KST),Space Gears,0,47184,0,1288305,{},[],[],[]
+23-06-01 191145(hhmmss KST),Space Gears,0,47741,0,1324388,{},[],[],[]
+23-06-01 191344(hhmmss KST),Space Gears,0,47859,0,1337895,{},[],[],[]
+23-06-01 192835(hhmmss KST),Space Gears,0,48267,0,1385603,{},[],[],[]
+23-06-01 193034(hhmmss KST),Space Gears,0,48291,0,1383806,{},[],[],[]
+23-06-01 194524(hhmmss KST),Space Gears,0,48805,0,1436602,{},[],[],[]
+23-06-01 194725(hhmmss KST),Space Gears,0,48813,0,1451833,{},[],[],[]
+23-06-01 200224(hhmmss KST),Space Gears,0,50093,0,1467920,{},[],[],[]
+23-06-01 200424(hhmmss KST),Space Gears,0,50382,0,1457780,{},[],[],[]
+23-06-01 201926(hhmmss KST),Space Gears,0,51612,0,1501929,{},[],[],[]
+23-06-01 202129(hhmmss KST),Space Gears,0,51873,0,1537116,{},[],[],[]
+23-06-01 203636(hhmmss KST),Space Gears,0,53211,0,1574082,{},[],[],[]
+23-06-01 203848(hhmmss KST),Space Gears,0,53631,0,1597775,{},[],[],[]
+23-06-01 205352(hhmmss KST),Space Gears,1,55260,3,1678240,"{""ko"":1}",['japanox'],['서네떡'],"['rts', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-01 205609(hhmmss KST),Space Gears,1,55367,4,1681106,"{""ko"":1}",['japanox'],['서네떡'],"['rts', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-01 210522(hhmmss KST),Space Gears,3,57650,156,1690181,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 211108(hhmmss KST),Space Gears,3,58727,171,1754375,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 211331(hhmmss KST),Space Gears,3,59242,172,1769612,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 212831(hhmmss KST),Space Gears,3,61703,224,1847261,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 213057(hhmmss KST),Space Gears,3,62166,209,1844831,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 214643(hhmmss KST),Space Gears,3,64528,218,1909852,"{""ko"":3}","['babyubyu', 'zench0816', 'japanox']","['바뷰뷰', '젠가놈', '서네떡']","['RTS', 'rts', '고전게임', '대회', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 214946(hhmmss KST),Space Gears,4,65025,232,1932127,"{""ko"":4}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 220444(hhmmss KST),Space Gears,5,68224,251,1957399,"{""ko"":5}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne', '211213twitch']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느', '폴리모프_']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 220751(hhmmss KST),Space Gears,5,68793,305,1953903,"{""ko"":5}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne', '211213twitch']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느', '폴리모프_']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 222249(hhmmss KST),Space Gears,5,71271,306,2025710,"{""ko"":5}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne', '211213twitch']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느', '폴리모프_']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 222548(hhmmss KST),Space Gears,5,71622,311,2037116,"{""ko"":5}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne', '211213twitch']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느', '폴리모프_']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 224105(hhmmss KST),Space Gears,4,74641,295,2105707,"{""ko"":4}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 224431(hhmmss KST),Space Gears,4,74440,312,2123614,"{""ko"":4}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 225923(hhmmss KST),Space Gears,4,76594,295,2154677,"{""ko"":4}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 230259(hhmmss KST),Space Gears,5,77753,273,2173622,"{""ko"":5}","['babyubyu', 'zench0816', 'japanox', 'charlotte_jeanne', 'wdfaith']","['바뷰뷰', '젠가놈', '서네떡', '샬롯ㆍ잔느', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 231759(hhmmss KST),Space Gears,5,79534,277,2196992,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 232124(hhmmss KST),Space Gears,5,79494,270,2236514,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 233632(hhmmss KST),Space Gears,5,81712,265,2283621,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 234005(hhmmss KST),Space Gears,5,81796,249,2285699,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 235506(hhmmss KST),Space Gears,5,82641,262,2356227,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-01 235840(hhmmss KST),Space Gears,5,83105,272,2357763,"{""ko"":5}","['babyubyu', 'zench0816', 'charlotte_jeanne', 'japanox', 'wdfaith']","['바뷰뷰', '젠가놈', '샬롯ㆍ잔느', '서네떡', 'WDFaith']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '대회', '드롭활성화됨', '버튜버', '서네떡', '실시간전략', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어', '해설']"
+23-06-02 001349(hhmmss KST),Space Gears,2,84227,213,2401855,"{""ko"":2}","['babyubyu', 'charlotte_jeanne']","['바뷰뷰', '샬롯ㆍ잔느']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '대회', '버튜버', '실시간전략', '한국어', '해설']"
+23-06-02 001726(hhmmss KST),Space Gears,2,84145,209,2441128,"{""ko"":2}","['babyubyu', 'charlotte_jeanne']","['바뷰뷰', '샬롯ㆍ잔느']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '대회', '버튜버', '실시간전략', '한국어', '해설']"
+23-06-02 003221(hhmmss KST),Space Gears,1,85119,12,2530058,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-02 003552(hhmmss KST),Space Gears,1,85577,11,2513745,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-02 005043(hhmmss KST),Space Gears,1,86399,2,2623547,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 005409(hhmmss KST),Space Gears,2,86151,14,2626692,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 010910(hhmmss KST),Space Gears,2,88900,17,2696575,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 011237(hhmmss KST),Space Gears,2,89581,16,2725649,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 012738(hhmmss KST),Space Gears,1,90612,13,2743028,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-02 013110(hhmmss KST),Space Gears,2,90954,16,2786010,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 014611(hhmmss KST),Space Gears,1,92074,13,2835307,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-02 014944(hhmmss KST),Space Gears,2,92640,12,2828190,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 020452(hhmmss KST),Space Gears,2,95856,8,2912569,"{""ko"":2}","['charlotte_jeanne', 'cjdgh1541']","['샬롯ㆍ잔느', '에맴맨']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '버튜버', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 020833(hhmmss KST),Space Gears,1,96134,1,2918405,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 022333(hhmmss KST),Space Gears,0,96987,0,2992881,{},[],[],[]
+23-06-02 022716(hhmmss KST),Space Gears,0,97114,0,2954655,{},[],[],[]
+23-06-02 024220(hhmmss KST),Space Gears,0,98992,0,2973066,{},[],[],[]
+23-06-02 024607(hhmmss KST),Space Gears,0,99571,0,2993914,{},[],[],[]
+23-06-02 030114(hhmmss KST),Space Gears,0,102049,0,3109502,{},[],[],[]
+23-06-02 030511(hhmmss KST),Space Gears,0,103251,0,3126921,{},[],[],[]
+23-06-02 032017(hhmmss KST),Space Gears,0,106014,0,3231983,{},[],[],[]
+23-06-02 032420(hhmmss KST),Space Gears,0,106389,0,3253133,{},[],[],[]
+23-06-02 033926(hhmmss KST),Space Gears,0,108795,0,3255316,{},[],[],[]
+23-06-02 034338(hhmmss KST),Space Gears,0,109584,0,3298373,{},[],[],[]
+23-06-02 035840(hhmmss KST),Space Gears,0,111668,0,3323781,{},[],[],[]
+23-06-02 040300(hhmmss KST),Space Gears,0,112865,0,3388101,{},[],[],[]
+23-06-02 041805(hhmmss KST),Space Gears,0,115364,0,3356407,{},[],[],[]
+23-06-02 042230(hhmmss KST),Space Gears,0,115831,0,3379830,{},[],[],[]
+23-06-02 043733(hhmmss KST),Space Gears,0,116818,0,3419207,{},[],[],[]
+23-06-02 044201(hhmmss KST),Space Gears,0,117286,0,3403466,{},[],[],[]
+23-06-02 045701(hhmmss KST),Space Gears,0,117611,0,3421697,{},[],[],[]
+23-06-02 050130(hhmmss KST),Space Gears,0,117408,0,3437341,{},[],[],[]
+23-06-02 051631(hhmmss KST),Space Gears,0,117327,0,3431925,{},[],[],[]
+23-06-02 052101(hhmmss KST),Space Gears,0,117578,0,3441853,{},[],[],[]
+23-06-02 053601(hhmmss KST),Space Gears,0,116596,0,3447346,{},[],[],[]
+23-06-02 054029(hhmmss KST),Space Gears,0,115943,0,3430967,{},[],[],[]
+23-06-02 055523(hhmmss KST),Space Gears,0,114648,0,3381775,{},[],[],[]
+23-06-02 055949(hhmmss KST),Space Gears,0,114280,0,3371909,{},[],[],[]
+23-06-02 061439(hhmmss KST),Space Gears,0,111995,0,3343594,{},[],[],[]
+23-06-02 061905(hhmmss KST),Space Gears,0,111509,0,3353190,{},[],[],[]
+23-06-02 063350(hhmmss KST),Space Gears,0,109965,0,3375488,{},[],[],[]
+23-06-02 063814(hhmmss KST),Space Gears,0,108933,0,3340498,{},[],[],[]
+23-06-02 065258(hhmmss KST),Space Gears,0,107840,0,3302501,{},[],[],[]
+23-06-02 065719(hhmmss KST),Space Gears,0,106928,0,3302120,{},[],[],[]
+23-06-02 071202(hhmmss KST),Space Gears,0,106933,0,3225798,{},[],[],[]
+23-06-02 071620(hhmmss KST),Space Gears,0,106054,0,3201090,{},[],[],[]
+23-06-02 073103(hhmmss KST),Space Gears,0,106133,0,3180157,{},[],[],[]
+23-06-02 073522(hhmmss KST),Space Gears,0,105941,0,3209577,{},[],[],[]
+23-06-02 075007(hhmmss KST),Space Gears,0,107158,0,3198789,{},[],[],[]
+23-06-02 075431(hhmmss KST),Space Gears,0,108828,0,3178791,{},[],[],[]
+23-06-02 080932(hhmmss KST),Space Gears,0,116475,0,3162350,{},[],[],[]
+23-06-02 081402(hhmmss KST),Space Gears,0,117677,0,3132210,{},[],[],[]
+23-06-02 082902(hhmmss KST),Space Gears,0,118954,0,3037852,{},[],[],[]
+23-06-02 083336(hhmmss KST),Space Gears,0,119299,0,3048099,{},[],[],[]
+23-06-02 084833(hhmmss KST),Space Gears,0,119885,0,2962618,{},[],[],[]
+23-06-02 085310(hhmmss KST),Space Gears,0,119910,0,2938151,{},[],[],[]
+23-06-02 090816(hhmmss KST),Space Gears,0,122205,0,2878678,{},[],[],[]
+23-06-02 091300(hhmmss KST),Space Gears,0,123552,0,2870564,{},[],[],[]
+23-06-02 092757(hhmmss KST),Space Gears,0,124022,0,2784106,{},[],[],[]
+23-06-02 093245(hhmmss KST),Space Gears,0,124395,0,2749410,{},[],[],[]
+23-06-02 094742(hhmmss KST),Space Gears,0,125234,0,2713761,{},[],[],[]
+23-06-02 095231(hhmmss KST),Space Gears,0,125115,0,2722108,{},[],[],[]
+23-06-02 100734(hhmmss KST),Space Gears,0,126615,0,2644952,{},[],[],[]
+23-06-02 101230(hhmmss KST),Space Gears,0,127280,0,2643948,{},[],[],[]
+23-06-02 102731(hhmmss KST),Space Gears,0,127438,0,2587973,{},[],[],[]
+23-06-02 103225(hhmmss KST),Space Gears,0,127758,0,2587861,{},[],[],[]
+23-06-02 105218(hhmmss KST),Space Gears,0,127361,0,2542696,{},[],[],[]
+23-06-02 110715(hhmmss KST),Space Gears,0,127000,0,2550556,{},[],[],[]
+23-06-02 111212(hhmmss KST),Space Gears,0,126882,0,2494574,{},[],[],[]
+23-06-02 112706(hhmmss KST),Space Gears,0,125907,0,2489161,{},[],[],[]
+23-06-02 113202(hhmmss KST),Space Gears,0,125751,0,2483140,{},[],[],[]
+23-06-02 114700(hhmmss KST),Space Gears,0,123780,0,2441989,{},[],[],[]
+23-06-02 115147(hhmmss KST),Space Gears,0,122845,0,2437616,{},[],[],[]
+23-06-02 120701(hhmmss KST),Space Gears,0,120376,0,2444908,{},[],[],[]
+23-06-02 121138(hhmmss KST),Space Gears,0,119543,0,2435632,{},[],[],[]
+23-06-02 122706(hhmmss KST),Space Gears,0,116229,0,2372821,{},[],[],[]
+23-06-02 123154(hhmmss KST),Space Gears,0,115854,0,2376169,{},[],[],[]
+23-06-02 124625(hhmmss KST),Space Gears,0,113000,0,2317889,{},[],[],[]
+23-06-02 125113(hhmmss KST),Space Gears,0,112111,0,2303844,{},[],[],[]
+23-06-02 130538(hhmmss KST),Space Gears,0,109707,0,2251143,{},[],[],[]
+23-06-02 131019(hhmmss KST),Space Gears,0,108418,0,2206004,{},[],[],[]
+23-06-02 132440(hhmmss KST),Space Gears,0,105406,0,2136130,{},[],[],[]
+23-06-02 132948(hhmmss KST),Space Gears,0,103785,0,2112753,{},[],[],[]
+23-06-02 134330(hhmmss KST),Space Gears,0,101012,0,2061706,{},[],[],[]
+23-06-02 134836(hhmmss KST),Space Gears,0,100007,0,2037811,{},[],[],[]
+23-06-02 140212(hhmmss KST),Space Gears,0,96398,0,1964677,{},[],[],[]
+23-06-02 140713(hhmmss KST),Space Gears,0,94817,0,1962234,{},[],[],[]
+23-06-02 142053(hhmmss KST),Space Gears,0,91596,0,1904324,{},[],[],[]
+23-06-02 142541(hhmmss KST),Space Gears,0,90433,0,1890546,{},[],[],[]
+23-06-02 143927(hhmmss KST),Space Gears,0,86880,0,1855313,{},[],[],[]
+23-06-02 144428(hhmmss KST),Space Gears,0,85873,0,1840312,{},[],[],[]
+23-06-02 145748(hhmmss KST),Space Gears,0,82891,0,1790497,{},[],[],[]
+23-06-02 150251(hhmmss KST),Space Gears,0,81894,0,1780950,{},[],[],[]
+23-06-02 151554(hhmmss KST),Space Gears,0,78870,0,1742822,{},[],[],[]
+23-06-02 152053(hhmmss KST),Space Gears,0,77569,0,1724291,{},[],[],[]
+23-06-02 153413(hhmmss KST),Space Gears,0,74360,0,1664837,{},[],[],[]
+23-06-02 153852(hhmmss KST),Space Gears,0,73844,0,1646709,{},[],[],[]
+23-06-02 155200(hhmmss KST),Space Gears,0,71220,0,1628476,{},[],[],[]
+23-06-02 155640(hhmmss KST),Space Gears,1,70901,1,1626437,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 160944(hhmmss KST),Space Gears,1,68550,3,1578482,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 161417(hhmmss KST),Space Gears,1,67575,4,1577971,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 162713(hhmmss KST),Space Gears,1,65566,5,1588605,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 163144(hhmmss KST),Space Gears,2,65119,5,1589723,"{""ko"":2}","['cjdgh1541', 'duty']","['에맴맨', 'duty']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 164441(hhmmss KST),Space Gears,3,63509,20,1589096,"{""ko"":3}","['molru761', 'cjdgh1541', 'duty']","['몰루네', '에맴맨', 'duty']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '궁금한게많음', '나긋나긋', '던오브워2', '롤', '소통좋아', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 164915(hhmmss KST),Space Gears,3,62646,19,1597017,"{""ko"":3}","['molru761', 'duty', 'cjdgh1541']","['몰루네', 'duty', '에맴맨']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '궁금한게많음', '나긋나긋', '던오브워2', '롤', '소통좋아', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 170201(hhmmss KST),Space Gears,3,61662,14,1557551,"{""ko"":3}","['molru761', 'cjdgh1541', 'duty']","['몰루네', '에맴맨', 'duty']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '궁금한게많음', '나긋나긋', '던오브워2', '롤', '소통좋아', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 170636(hhmmss KST),Space Gears,3,61403,18,1550304,"{""ko"":3}","['molru761', 'cjdgh1541', 'duty']","['몰루네', '에맴맨', 'duty']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '궁금한게많음', '나긋나긋', '던오브워2', '롤', '소통좋아', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 171917(hhmmss KST),Space Gears,3,60212,18,1560921,"{""ko"":3}","['molru761', 'cjdgh1541', 'duty']","['몰루네', '에맴맨', 'duty']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '궁금한게많음', '나긋나긋', '던오브워2', '롤', '소통좋아', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 172357(hhmmss KST),Space Gears,2,59782,5,1569673,"{""ko"":2}","['duty', 'cjdgh1541']","['duty', '에맴맨']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 173632(hhmmss KST),Space Gears,2,58885,8,1561325,"{""ko"":2}","['duty', 'cjdgh1541']","['duty', '에맴맨']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 174110(hhmmss KST),Space Gears,2,58618,9,1560894,"{""ko"":2}","['duty', 'cjdgh1541']","['duty', '에맴맨']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 175342(hhmmss KST),Space Gears,3,57928,11,1574349,"{""ko"":2,""en"":1}","['duty', 'cjdgh1541', 'sc2_alexandros']","['duty', '에맴맨', 'SC2_Alexandros']","['3D롤', '5대5', 'English', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 175819(hhmmss KST),Space Gears,3,57516,15,1589611,"{""ko"":2,""en"":1}","['duty', 'cjdgh1541', 'sc2_alexandros']","['duty', '에맴맨', 'SC2_Alexandros']","['3D롤', '5대5', 'English', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 181051(hhmmss KST),Space Gears,2,57366,11,1546834,"{""ko"":2}","['duty', 'cjdgh1541']","['duty', '에맴맨']","['3D롤', '5대5', 'RTS', 'dawnofwar2', 'elitemod', 'pvp', '게임', '고전게임', '공포게임', '던오브워2', '롤', '액션', '어드벤처게임', '인디게임', '전략', '전쟁게임', '최고의게임', '한국어']"
+23-06-02 181527(hhmmss KST),Space Gears,1,56798,3,1544352,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 182759(hhmmss KST),Space Gears,1,56208,4,1595873,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 183242(hhmmss KST),Space Gears,1,56330,3,1618436,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 184515(hhmmss KST),Space Gears,1,55735,5,1633649,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 184948(hhmmss KST),Space Gears,1,55815,4,1625312,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 190227(hhmmss KST),Space Gears,1,56049,5,1682076,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 190656(hhmmss KST),Space Gears,1,56320,8,1664546,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 191936(hhmmss KST),Space Gears,1,56294,9,1688280,"{""ko"":1}",['cjdgh1541'],['에맴맨'],"['RTS', 'dawnofwar2', 'elitemod', '게임', '고전게임', '공포게임', '던오브워2', '어드벤처게임', '인디게임', '한국어']"
+23-06-02 192403(hhmmss KST),Space Gears,0,56125,0,1694627,{},[],[],[]
+23-06-02 193645(hhmmss KST),Space Gears,0,56748,0,1718074,{},[],[],[]
+23-06-02 194113(hhmmss KST),Space Gears,0,56752,0,1745530,{},[],[],[]
+23-06-02 195358(hhmmss KST),Space Gears,0,57516,0,1781826,{},[],[],[]
+23-06-02 195827(hhmmss KST),Space Gears,0,58101,0,1797353,{},[],[],[]
+23-06-02 201113(hhmmss KST),Space Gears,0,59219,0,1844184,{},[],[],[]
+23-06-02 201546(hhmmss KST),Space Gears,0,60360,0,1850958,{},[],[],[]
+23-06-02 202834(hhmmss KST),Space Gears,0,61240,0,1907823,{},[],[],[]
+23-06-02 203306(hhmmss KST),Space Gears,1,61529,2,1924461,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-02 204601(hhmmss KST),Space Gears,2,63183,12,1980936,"{""ko"":2}","['spacegears_official', 'jellyman7422']","['spacegears_official', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft']"
+23-06-02 205035(hhmmss KST),Space Gears,2,63969,15,1999153,"{""ko"":2}","['spacegears_official', 'jellyman7422']","['spacegears_official', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft']"
+23-06-02 210337(hhmmss KST),Space Gears,3,66813,28,2048290,"{""ko"":3}","['spacegears_official', 'pkrgrom', 'jellyman7422']","['spacegears_official', '그롬마쉬티비', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 210810(hhmmss KST),Space Gears,3,67096,41,2067960,"{""ko"":3}","['spacegears_official', 'pkrgrom', 'jellyman7422']","['spacegears_official', '그롬마쉬티비', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 212119(hhmmss KST),Space Gears,4,69339,43,2104341,"{""ko"":4}","['spacegears_official', 'pkrgrom', 'duxmagic', 'jellyman7422']","['spacegears_official', '그롬마쉬티비', '매직덕스', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 212555(hhmmss KST),Space Gears,4,70464,52,2124295,"{""ko"":4}","['spacegears_official', 'pkrgrom', 'duxmagic', 'jellyman7422']","['spacegears_official', '그롬마쉬티비', '매직덕스', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 213911(hhmmss KST),Space Gears,4,72951,65,2178065,"{""ko"":4}","['pkrgrom', 'spacegears_official', 'duxmagic', 'jellyman7422']","['그롬마쉬티비', 'spacegears_official', '매직덕스', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 214350(hhmmss KST),Space Gears,3,74131,59,2144183,"{""ko"":3}","['pkrgrom', 'spacegears_official', 'duxmagic']","['그롬마쉬티비', 'spacegears_official', '매직덕스']",['한국어']
+23-06-02 215706(hhmmss KST),Space Gears,4,75979,60,2229228,"{""ko"":4}","['pkrgrom', 'spacegears_official', 'duxmagic', 'jellyman7422']","['그롬마쉬티비', 'spacegears_official', '매직덕스', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 220152(hhmmss KST),Space Gears,4,77897,50,2274149,"{""ko"":4}","['spacegears_official', 'pkrgrom', 'duxmagic', 'jellyman7422']","['spacegears_official', '그롬마쉬티비', '매직덕스', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rtsgames', 'sf', 'starcraft', '한국어']"
+23-06-02 221512(hhmmss KST),Space Gears,4,80330,36,2328922,"{""ko"":4}","['pkrgrom', 'duxmagic', 'japanox', 'jellyman7422']","['그롬마쉬티비', '매직덕스', '서네떡', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rts', 'rtsgames', 'sf', 'starcraft', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 222001(hhmmss KST),Space Gears,3,81739,37,2378414,"{""ko"":3}","['pkrgrom', 'japanox', 'jellyman7422']","['그롬마쉬티비', '서네떡', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rts', 'rtsgames', 'sf', 'starcraft', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 223334(hhmmss KST),Space Gears,3,83845,39,2434926,"{""ko"":3}","['pkrgrom', 'japanox', 'jellyman7422']","['그롬마쉬티비', '서네떡', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rts', 'rtsgames', 'sf', 'starcraft', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 223824(hhmmss KST),Space Gears,3,84384,35,2451360,"{""ko"":3}","['pkrgrom', 'japanox', 'jellyman7422']","['그롬마쉬티비', '서네떡', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rts', 'rtsgames', 'sf', 'starcraft', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 225153(hhmmss KST),Space Gears,3,86846,33,2474002,"{""ko"":3}","['pkrgrom', 'japanox', 'jellyman7422']","['그롬마쉬티비', '서네떡', '술쳐먹은폭군']","['EALRYACCESS', 'Mars', 'Mech', 'RTS', 'RTSGameplay', 'betatest', 'rts', 'rtsgames', 'sf', 'starcraft', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 225648(hhmmss KST),Space Gears,2,87502,30,2500046,"{""ko"":2}","['pkrgrom', 'japanox']","['그롬마쉬티비', '서네떡']","['rts', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 231021(hhmmss KST),Space Gears,2,89699,29,2550638,"{""ko"":2}","['pkrgrom', 'japanox']","['그롬마쉬티비', '서네떡']","['rts', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 231517(hhmmss KST),Space Gears,2,90432,32,2593745,"{""ko"":2}","['pkrgrom', 'japanox']","['그롬마쉬티비', '서네떡']","['rts', '고전게임', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 232852(hhmmss KST),Space Gears,3,92203,298,2592174,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 233351(hhmmss KST),Space Gears,3,92826,297,2631163,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 234726(hhmmss KST),Space Gears,3,94026,282,2651795,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-02 235226(hhmmss KST),Space Gears,3,94355,269,2664224,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 000607(hhmmss KST),Space Gears,3,96029,274,2685779,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 001108(hhmmss KST),Space Gears,3,96525,268,2684498,"{""ko"":3}","['tvcrank', 'charlotte_jeanne', 'japanox']","['크랭크_', '샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 002450(hhmmss KST),Space Gears,2,97748,15,2769252,"{""ko"":2}","['charlotte_jeanne', 'japanox']","['샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 002953(hhmmss KST),Space Gears,2,98262,16,2829358,"{""ko"":2}","['charlotte_jeanne', 'japanox']","['샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 004338(hhmmss KST),Space Gears,2,98878,11,2873276,"{""ko"":2}","['charlotte_jeanne', 'japanox']","['샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 004840(hhmmss KST),Space Gears,2,99078,14,2886949,"{""ko"":2}","['charlotte_jeanne', 'japanox']","['샬롯ㆍ잔느', '서네떡']","['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', 'rts', '고전게임', '버튜버', '서네떡', '에이지오브엠파이어', '에이지오브엠파이어3', '전략시뮬레이션', '한국어']"
+23-06-03 010231(hhmmss KST),Space Gears,1,100642,11,2937339,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-03 010733(hhmmss KST),Space Gears,1,101538,6,2897467,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-03 012126(hhmmss KST),Space Gears,1,102750,8,2994150,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-03 012628(hhmmss KST),Space Gears,1,102661,6,3007153,"{""ko"":1}",['charlotte_jeanne'],['샬롯ㆍ잔느'],"['Competitive', 'LittleEnglish', 'RTS', 'Vtuber', '버튜버', '한국어']"
+23-06-03 014023(hhmmss KST),Space Gears,1,104044,1,3085249,"{""ko"":1}",['studentkim'],['개강한사람'],['한국어']
+23-06-03 014527(hhmmss KST),Space Gears,1,104522,2,3097283,"{""ko"":1}",['studentkim'],['개강한사람'],['한국어']
+23-06-03 015929(hhmmss KST),Space Gears,0,106058,0,3134572,{},[],[],[]
+23-06-03 020439(hhmmss KST),Space Gears,2,107961,126,3168687,"{""en"":1,""ko"":1}","['helpinghans', 'studentkim']","['HelpingHans', '개강한사람']","['Educational', 'English', 'History', 'RTS', 'strategy', 'ww2', '한국어']"
+23-06-03 021841(hhmmss KST),Space Gears,2,109744,86,3178763,"{""en"":1,""ko"":1}","['helpinghans', 'studentkim']","['HelpingHans', '개강한사람']","['Educational', 'English', 'History', 'RTS', 'strategy', 'ww2', '한국어']"
+23-06-03 022355(hhmmss KST),Space Gears,3,110432,91,3242337,"{""en"":1,""ko"":1,""fr"":1}","['helpinghans', 'studentkim', 'cevdplay']","['HelpingHans', '개강한사람', 'CEVDplay']","['Chill', 'Educational', 'English', 'Fps', 'History', 'RTS', 'découverte', 'français', 'fun', 'gaming', 'multigaming', 'musique', 'ouvert', 'ranked', 'strategy', 'ww2', '한국어']"
+23-06-03 023801(hhmmss KST),Space Gears,3,111273,89,3301939,"{""en"":1,""fr"":1,""ko"":1}","['helpinghans', 'cevdplay', 'studentkim']","['HelpingHans', 'CEVDplay', '개강한사람']","['Chill', 'Educational', 'English', 'Fps', 'History', 'RTS', 'découverte', 'français', 'fun', 'gaming', 'multigaming', 'musique', 'ouvert', 'ranked', 'strategy', 'ww2', '한국어']"
+23-06-03 024312(hhmmss KST),Space Gears,3,111303,87,3318961,"{""en"":1,""fr"":1,""ko"":1}","['helpinghans', 'cevdplay', 'studentkim']","['HelpingHans', 'CEVDplay', '개강한사람']","['Chill', 'Educational', 'English', 'Fps', 'History', 'RTS', 'découverte', 'français', 'fun', 'gaming', 'multigaming', 'musique', 'ouvert', 'ranked', 'strategy', 'ww2', '한국어']"
+23-06-03 025721(hhmmss KST),Space Gears,3,112949,80,3332210,"{""en"":1,""fr"":1,""ko"":1}","['helpinghans', 'cevdplay', 'studentkim']","['HelpingHans', 'CEVDplay', '개강한사람']","['Chill', 'Educational', 'English', 'Fps', 'History', 'RTS', 'découverte', 'français', 'fun', 'gaming', 'multigaming', 'musique', 'ouvert', 'ranked', 'strategy', 'ww2', '한국어']"
+23-06-03 030239(hhmmss KST),Space Gears,3,114732,81,3336435,"{""en"":1,""fr"":1,""ko"":1}","['helpinghans', 'cevdplay', 'studentkim']","['HelpingHans', 'CEVDplay', '개강한사람']","['Chill', 'Educational', 'English', 'Fps', 'History', 'RTS', 'découverte', 'français', 'fun', 'gaming', 'multigaming', 'musique', 'ouvert', 'ranked', 'strategy', 'ww2', '한국어']"
+23-06-03 031652(hhmmss KST),Space Gears,2,117465,71,3399612,"{""en"":1,""ko"":1}","['helpinghans', 'studentkim']","['HelpingHans', '개강한사람']","['Educational', 'English', 'History', 'RTS', 'strategy', 'ww2', '한국어']"
+23-06-03 032215(hhmmss KST),Space Gears,2,117853,77,3443405,"{""en"":1,""ko"":1}","['helpinghans', 'studentkim']","['HelpingHans', '개강한사람']","['Educational', 'English', 'History', 'RTS', 'strategy', 'ww2', '한국어']"
+23-06-03 033627(hhmmss KST),Space Gears,1,119988,0,3446371,"{""en"":1}",['vmeezo'],['vmeezo'],"['Chıll', 'Demo', 'English', 'Indie', 'SteamNextFest']"
+23-06-03 034152(hhmmss KST),Space Gears,1,121117,0,3498079,"{""en"":1}",['vmeezo'],['vmeezo'],"['Chıll', 'Demo', 'English', 'Indie', 'SteamNextFest']"
+23-06-03 035610(hhmmss KST),Space Gears,1,122503,0,3566704,"{""en"":1}",['vmeezo'],['vmeezo'],"['Chıll', 'Demo', 'English', 'Indie', 'SteamNextFest']"
+23-06-03 040139(hhmmss KST),Space Gears,1,123898,1,3586270,"{""en"":1}",['vmeezo'],['vmeezo'],"['Chıll', 'Demo', 'English', 'Indie', 'SteamNextFest']"
+23-06-03 041535(hhmmss KST),Space Gears,0,127226,0,3604138,{},[],[],[]
+23-06-03 042104(hhmmss KST),Space Gears,0,128152,0,3616891,{},[],[],[]
+23-06-03 043505(hhmmss KST),Space Gears,0,129561,0,3628821,{},[],[],[]
+23-06-03 044033(hhmmss KST),Space Gears,0,129532,0,3609729,{},[],[],[]
+23-06-03 045436(hhmmss KST),Space Gears,0,130088,0,3645510,{},[],[],[]
+23-06-03 050006(hhmmss KST),Space Gears,0,130931,0,3639477,{},[],[],[]
+23-06-03 051408(hhmmss KST),Space Gears,0,131266,0,3664923,{},[],[],[]
+23-06-03 051938(hhmmss KST),Space Gears,0,131390,0,3651183,{},[],[],[]
+23-06-03 053341(hhmmss KST),Space Gears,0,130765,0,3607235,{},[],[],[]
+23-06-03 053910(hhmmss KST),Space Gears,0,130572,0,3555035,{},[],[],[]
+23-06-03 055310(hhmmss KST),Space Gears,0,129836,0,3567479,{},[],[],[]
+23-06-03 055840(hhmmss KST),Space Gears,0,129879,0,3575064,{},[],[],[]
+23-06-03 061237(hhmmss KST),Space Gears,0,129518,0,3612283,{},[],[],[]
+23-06-03 061811(hhmmss KST),Space Gears,1,128703,9,3591847,"{""en"":1}",['bikerush'],['BikeRush'],"['CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath']"
+23-06-03 063202(hhmmss KST),Space Gears,1,127932,25,3425772,"{""en"":1}",['bikerush'],['BikeRush'],"['CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath']"
+23-06-03 063733(hhmmss KST),Space Gears,1,127071,30,3399305,"{""en"":1}",['bikerush'],['BikeRush'],"['CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath']"
+23-06-03 065120(hhmmss KST),Space Gears,1,125387,35,3344349,"{""en"":1}",['bikerush'],['BikeRush'],"['CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath']"
+23-06-03 065652(hhmmss KST),Space Gears,1,125098,41,3307789,"{""en"":1}",['bikerush'],['BikeRush'],"['CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath']"
+23-06-03 071038(hhmmss KST),Space Gears,2,124094,40,3247711,"{""en"":1,""ko"":1}","['bikerush', 'ebocge']","['BikeRush', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 071608(hhmmss KST),Space Gears,3,123463,39,3241053,"{""en"":1,""fr"":1,""ko"":1}","['bikerush', 'achebe_', 'ebocge']","['BikeRush', 'Achebe_', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Français', 'Gameplay', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'découverte', 'indé', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 072950(hhmmss KST),Space Gears,2,122088,35,3188148,"{""en"":1,""ko"":1}","['bikerush', 'ebocge']","['BikeRush', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 073518(hhmmss KST),Space Gears,2,121475,39,3168551,"{""en"":1,""ko"":1}","['bikerush', 'ebocge']","['BikeRush', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 074859(hhmmss KST),Space Gears,2,120389,37,3078787,"{""en"":1,""ko"":1}","['bikerush', 'ebocge']","['BikeRush', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 075425(hhmmss KST),Space Gears,2,120200,37,3071227,"{""en"":1,""ko"":1}","['bikerush', 'ebocge']","['BikeRush', '이보시게_']","['ASMR', 'CommandConquer3', 'English', 'Esports', 'Professionalplayer', 'RTS', 'Vtuber', 'cnc3', 'kaneswrath', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 080807(hhmmss KST),Space Gears,1,120110,4,3014190,"{""ko"":1}",['ebocge'],['이보시게_'],"['ASMR', 'RTS', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 081331(hhmmss KST),Space Gears,1,119915,4,3012577,"{""ko"":1}",['ebocge'],['이보시게_'],"['ASMR', 'RTS', 'voice', '신입', '전략시뮬레이션', '종합게임', '종합게임스트리머', '한국어']"
+23-06-03 082710(hhmmss KST),Space Gears,0,119017,0,2946936,{},[],[],[]
+23-06-03 083238(hhmmss KST),Space Gears,0,119007,0,2925956,{},[],[],[]
+23-06-03 084614(hhmmss KST),Space Gears,0,118283,0,2882596,{},[],[],[]
+23-06-03 085142(hhmmss KST),Space Gears,0,118747,0,2832946,{},[],[],[]
+23-06-03 090525(hhmmss KST),Space Gears,1,120196,3,2758563,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 091054(hhmmss KST),Space Gears,1,121130,15,2775833,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 092437(hhmmss KST),Space Gears,1,121368,12,2771736,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 093004(hhmmss KST),Space Gears,1,122063,13,2737608,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 094349(hhmmss KST),Space Gears,1,122536,18,2752483,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 094916(hhmmss KST),Space Gears,1,122012,20,2758615,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 100306(hhmmss KST),Space Gears,1,124294,17,2677684,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 100831(hhmmss KST),Space Gears,1,124727,18,2652458,"{""ko"":1}",['spacegears_official'],['spacegears_official'],[]
+23-06-03 102226(hhmmss KST),Space Gears,0,125531,0,2702031,{},[],[],[]
+23-06-03 102753(hhmmss KST),Space Gears,0,126182,0,2679258,{},[],[],[]
+23-06-03 104149(hhmmss KST),Space Gears,0,127046,0,2688490,{},[],[],[]
+23-06-03 104715(hhmmss KST),Space Gears,0,126714,0,2714805,{},[],[],[]
+23-06-03 110113(hhmmss KST),Space Gears,0,127295,0,2715429,{},[],[],[]
+23-06-03 110641(hhmmss KST),Space Gears,1,128322,5,2662809,"{""ko"":1}",['pkrgrom'],['그롬마쉬티비'],['한국어']
+23-06-03 112038(hhmmss KST),Space Gears,1,128660,14,2557366,"{""ko"":1}",['pkrgrom'],['그롬마쉬티비'],['한국어']
+23-06-03 112607(hhmmss KST),Space Gears,1,128543,14,2536230,"{""ko"":1}",['pkrgrom'],['그롬마쉬티비'],['한국어']
+23-06-03 114005(hhmmss KST),Space Gears,0,128924,0,2522537,{},[],[],[]
+23-06-03 114532(hhmmss KST),Space Gears,0,128580,0,2517698,{},[],[],[]
+23-06-03 115929(hhmmss KST),Space Gears,0,127580,0,2462595,{},[],[],[]
+23-06-03 120457(hhmmss KST),Space Gears,0,127463,0,2470237,{},[],[],[]
+23-06-03 121852(hhmmss KST),Space Gears,0,126282,0,2384796,{},[],[],[]
+23-06-03 122416(hhmmss KST),Space Gears,0,125283,0,2345411,{},[],[],[]
+23-06-03 123809(hhmmss KST),Space Gears,0,124186,0,2296584,{},[],[],[]
+23-06-03 124332(hhmmss KST),Space Gears,0,123358,0,2286064,{},[],[],[]
+23-06-03 125720(hhmmss KST),Space Gears,0,121250,0,2224943,{},[],[],[]
+23-06-03 130243(hhmmss KST),Space Gears,0,121086,0,2213016,{},[],[],[]
+23-06-03 131624(hhmmss KST),Space Gears,0,118376,0,2169425,{},[],[],[]
