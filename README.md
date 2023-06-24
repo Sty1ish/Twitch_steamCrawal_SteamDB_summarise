@@ -11,6 +11,8 @@ steamDB_crawler.py의 초반 부분에서는 steamAPI를 통한 CCU를 확인 �
 다만 과거의 CCU정보를 확인 불가능했기에, steamDB에서 일정 주기로 손수 2주간 데이터를 다운후 폴더에 추가하여 줍니다.
 
 
+더욱 상세한 설명 : https://blog.naver.com/stylish1379/223137645101
+
 Ex. 자료 다운 예제
 
 스팀 DB 사이트 : https://steamdb.info/app/730/charts/
